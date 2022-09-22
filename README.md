@@ -1,9 +1,7 @@
-# AutomationCode
 This Repository is used for validating Json File Key and Value Pairs.
 
 
-
-# I have used Maven to build this Project
+I have used Maven to build this Project
 Please ensure whether Java and Maven is installed in the System.
 
 <<Folder Name>>\SampleDemo\src\main\java\com\demo\test\SampleDemo
