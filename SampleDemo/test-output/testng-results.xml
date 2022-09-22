@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28" started-at="2022-09-22T18:27:27Z" finished-at="2022-09-22T18:27:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28" started-at="2022-09-22T18:27:27Z" finished-at="2022-09-22T18:27:27Z">
+      <class name="com.demo.test.SampleDemo.ValidatePlayersCountry">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.test.SampleDemo.ValidatePlayersCountry@7ca48474]" name="setUp" is-config="true" duration-ms="19" started-at="2022-09-22T23:57:27Z" finished-at="2022-09-22T23:57:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testScenario1()[pri:0, instance:com.demo.test.SampleDemo.ValidatePlayersCountry@7ca48474]" name="testScenario1" duration-ms="11" started-at="2022-09-22T23:57:27Z" finished-at="2022-09-22T23:57:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScenario1 -->
+      </class> <!-- com.demo.test.SampleDemo.ValidatePlayersCountry -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

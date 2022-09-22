@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Run JSON Tests" configfailurepolicy="continue">
+	<test name="Regression" parallel="test" thread-count="1">
+		<classes>
+
+			<!-- Validate Json Files P1 -->
+			<class name="com.demo.test.SampleDemo.ValidatePlayersCountry"/>
+			<class name="com.demo.test.SampleDemo.ValidatePlayersRole"/>
+		</classes>
+
+	</test>
+</suite>
