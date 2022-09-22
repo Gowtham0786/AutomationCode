@@ -14,8 +14,10 @@ Please ensure whether Java and Maven is installed in the System.
   
 **To Execute the Test Cases:**
 
-1.ValidatePlayersCountry.java  <<<This class is created to validate whether team has 4 Foreign Players.>>>
-2.ValidatePlayersRole.java     <<<This class is created to validate whether team has atleast 1 wicket-keeper.>>>
+1.ValidatePlayersCountry.java  
+  This class is created to validate whether team has 4 Foreign Players.>>>
+2.ValidatePlayersRole.java     
+  This class is created to validate whether team has atleast 1 wicket-keeper.>>>
 
 
 **Instructions to Run the project :**
