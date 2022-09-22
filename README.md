@@ -22,7 +22,6 @@ Please ensure whether Java and Maven is installed in the System.
 
 **Instructions to Run the project :**
 1. Download the project and Open the Project in Eclipse IDE.
-  
   <Folder Name>\SampleDemo\src\main\java\com\demo\test\SampleDemo
 2. RightClick on the Project and Select->Maven->Update Project.
 3. To Run the Project, 
