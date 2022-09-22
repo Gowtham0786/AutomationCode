@@ -35,5 +35,7 @@ Please ensure whether Java and Maven is installed in the System.
   
   2.Test that Vaidates that the team has atlease 1 Wicket-Keeper - 
      To perform this Test , Rightclick and Run this "ValidatePlayersRole.java" File as "TestNG Test"
+  
+  To run the all the testcases, "TestSuite.xml" file can be run used using "TestNG Test"
         
   ********
