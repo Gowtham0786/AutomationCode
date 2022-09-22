@@ -6,7 +6,7 @@ This Repository is used for validating Json File Key and Value Pairs.
 # I have used Maven to build this Project
 Please ensure whether Java and Maven is installed in the System.
 
-<Folder Name>\SampleDemo\src\main\java\com\demo\test\SampleDemo
+<<Folder Name>>\SampleDemo\src\main\java\com\demo\test\SampleDemo
 
 This Project Consists of two Main Java Files
 1.BaseClass.java   // This class is created to load the Json file and store the Json Objects
@@ -28,10 +28,9 @@ Instructions to Run the project :
       <Folder Name>\SampleDemo\src\test\java\com\demo\test\SampleDemo
     
   1.Test that Validates that the team has only 4 Foreign Players - 
-   # To perform this Test , Rightclick and Run this "ValidatePlayersCountry.java" File as "TestNG Test"
+     To perform this Test , Rightclick and Run this "ValidatePlayersCountry.java" File as "TestNG Test"
   
   2.Test that Vaidates that the team has atlease 1 Wicket-Keeper - 
-     
-    # To perform this Test , Rightclick and Run this "ValidatePlayersRole.java" File as "TestNG Test"
+     To perform this Test , Rightclick and Run this "ValidatePlayersRole.java" File as "TestNG Test"
         
   ********
